@@ -187,3 +187,10 @@ Now the instance is created from AMI image using terraform:
 ## Conclusion
 
 This is a simple EC2 creation from AMI image using terraform with filter. Please contact me when you encounter any difficulty error while using this terrform code. Thank you and have a great day!
+
+
+### ⚙️ Connect with Me
+
+<p align="center">
+ <a href="https://www.instagram.com/itz__me_omkar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanu-das-t-3722891b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
