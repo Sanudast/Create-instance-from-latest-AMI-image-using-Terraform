@@ -1,0 +1,1 @@
+# Create-instance-from-latest-AMI-image-using-Terraform
